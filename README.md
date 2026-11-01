@@ -18,6 +18,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
+| [redteam-skill-map](https://github.com/edwardmackiezyv885-art/redteam-skill-map) | 红队任务的阶段编排规范：17 条攻击链 · 181 个技能 |
 | [lbwapi-workbench](https://github.com/edwardmackiezyv885-art/lbwapi-workbench) | AI 客户端工作词包与技能树的一键安装工具 |
 | [prompt-forge](https://github.com/edwardmackiezyv885-art/prompt-forge) | 结构化提示词生成器，单文件零依赖 |
 | [turing-whitepaper](https://github.com/edwardmackiezyv885-art/turing-whitepaper) | 技术白皮书整理 |
